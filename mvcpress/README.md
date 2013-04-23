@@ -1,5 +1,5 @@
 mvcpress
 ========
 
-Implementing WordPress with CakePHP
+Implementing a WordPress-style CMS with CakePHP
 
